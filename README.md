@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![R-Madhan-1306's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Madhan-1306&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 <!--
 **R-Madhan-1306/R-madhan-1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
