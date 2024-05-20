@@ -1,12 +1,13 @@
-### Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 👋 Hi, I’m Madhan Raja
+
+- 👋 I’m Madhan Raja
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning Mern Stack, Machine Learnings
 - 💞️ I’m looking to collaborate on Big company
 - 📫 How to reach me -- linkedin [ **Madhan Raja** ]
 
-<h1 align="left">Hey 👋 What's up?</h1>
+
 
 ###
 
