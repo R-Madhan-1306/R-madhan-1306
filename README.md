@@ -10,7 +10,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-madhan-1306&label=Profile%20views&color=0e75b6&style=flat" alt="r-madhan-1306" /> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-madhan-1306" alt="r-madhan-1306" /></a> </p>
 
 
 
