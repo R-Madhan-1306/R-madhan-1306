@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
-- 🌱 I’m currently learning Mern Stack, Machine Learnings
-- 💞️ I’m looking to collaborate on Big company
+
 -  How to reach me -- linkedin [ **Madhan Raja** ]
 
 
