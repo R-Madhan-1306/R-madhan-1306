@@ -2,7 +2,7 @@
 <h3 align="center">Driven by a passion for problem-solving and full stack development 🛠️</h3>
 
 <p align="center">
-  Independent & Focused 🔍 | Software Developer 💻 | Passionate problem-solver 💡 | Consistency is key 🔑 | Committed to making an impact 🌟
+  Independent & Focused 🔍 | Software Developer 💻 | Passionate problem-solver 💡 | Consistency is key 🔑 | <br>Committed to making an impact 🌟
 </p>
 
 <p align="center"> 
@@ -12,7 +12,7 @@
 <!-- Trophy Section -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=r-madhan-1306&theme=algolia&column=7" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=r-madhan-1306&theme=algolia&column=8" alt="Trophy" />
   </a> 
 </p>
 
