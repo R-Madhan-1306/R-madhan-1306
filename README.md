@@ -1,78 +1,167 @@
-<h1 align="center">Hello! I'm Madhan Raja 👋</h1>
-<h3 align="center">Driven by a passion for problem-solving and full stack development 🛠️</h3>
+<div align="center">
+
+# Hi, I'm Madhan Raja 👋
+
+### Software Development Engineer · Technical Lead
+
+Building scalable software, reliable backend systems, and production-ready applications.
+
+<p>
+  <a href="https://github.com/R-Madhan-1306">
+    <img src="https://komarev.com/ghpvc/?username=R-Madhan-1306&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/R-Madhan-1306?tab=followers">
+    <img src="https://img.shields.io/github/followers/R-Madhan-1306?label=Followers&style=flat" alt="Followers"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Software Development Engineer with **1+ year of professional experience** in
+full-stack development and backend engineering.
+
+Currently working as a **Technical Lead**, with experience across
+**fintech, recruitment, enterprise software, and healthcare**.
+
+I work primarily on **backend systems, REST APIs, authentication, databases,
+real-time communication, payment workflows, and production deployments**.
+
+I enjoy turning complex requirements into **clean, maintainable, secure,
+and production-ready software**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 
 <p align="center">
-  Independent & Focused 🔍 | Software Developer 💻 | Passionate problem-solver 💡 | Consistency is key 🔑 | <br>Committed to making an impact 🌟
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,go,dart" alt="Languages"/>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=r-madhan-1306&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+### Frontend & Mobile
 
-<!-- Trophy Section -->
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=r-madhan-1306&theme=algolia&column=8" alt="Trophy" />
-  </a> 
-</p>
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/madhan-raja" target="_blank">
-    <img src="https://img.shields.io/badge/-Madhan%20Raja-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-
-<h3 align="center">⚒️ Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css" alt="Frontend and Mobile"/>
+</p>
+
+### Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs" alt="Backend"/>
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Databases"/>
+</p>
+
+### DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman" alt="DevOps and Tools"/>
+</p>
+
+### Security & Architecture
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/RBAC-374151?style=for-the-badge" alt="RBAC"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-059669?style=for-the-badge" alt="REST APIs"/>
 </p>
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
+## 💼 Professional Experience
+
+### CubeAI Solutions
+
+**Technical Lead** · Jun 2026 – Present  
+**Software Developer** · Feb 2026 – May 2026  
+**Full Stack Developer Intern** · Jun 2025 – Jan 2026
+
+- Lead full-stack delivery across **healthcare, fintech, recruitment, and enterprise software**.
+- Contribute to **system architecture, backend development, and technical decision-making**.
+- Conduct **code reviews** and guide developers across projects.
+- Work across the complete development lifecycle from **development to production deployment**.
+
+### Six Phase Edu Tech
+
+**Backend Intern** · Jul 2024 – Aug 2024
+
+- Developed **RESTful APIs** and client-server backend integrations.
+- Implemented **session management and protected authentication workflows**.
+
+---
+
+## 🧩 Engineering Highlights
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-madhan-1306&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://img.shields.io/badge/Backend%20Engineering-111827?style=for-the-badge" alt="Backend Engineering"/>
+<img src="https://img.shields.io/badge/API%20Design-111827?style=for-the-badge" alt="API Design"/>
+<img src="https://img.shields.io/badge/System%20Architecture-111827?style=for-the-badge" alt="System Architecture"/>
+<img src="https://img.shields.io/badge/Database%20Design-111827?style=for-the-badge" alt="Database Design"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Authentication%20%26%20Security-111827?style=for-the-badge" alt="Authentication and Security"/>
+<img src="https://img.shields.io/badge/Real--Time%20Systems-111827?style=for-the-badge" alt="Real-Time Systems"/>
+<img src="https://img.shields.io/badge/Payment%20Integration-111827?style=for-the-badge" alt="Payment Integration"/>
+<img src="https://img.shields.io/badge/Docker%20%26%20Deployment-111827?style=for-the-badge" alt="Docker and Deployment"/>
+
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-madhan-1306&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=R-Madhan-1306&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+alt="GitHub Stats"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Madhan-1306&layout=compact&hide_border=true&theme=github_dark"
+alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=R-Madhan-1306&theme=github-dark-blue&hide_border=true"
+alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/madhan1306">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:mr.madhan1306@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/R-Madhan-1306">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
